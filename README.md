@@ -1,4 +1,4 @@
-# MistralAI Desktop - Local LLM Runner
+# Local AI Chat - Desktop Mistral Runner
 
 🚀 **A powerful, memory-optimized desktop application for running Mistral 7B locally on resource-constrained systems**
 
@@ -129,7 +129,7 @@ Visit `http://localhost:5000/` for interactive API documentation.
 ## 📁 Project Structure
 
 ```
-MistralAI Desktop/
+Local AI Chat/
 ├── api_server.py          # Flask REST API server
 ├── web_ui.py              # Flask web interface
 ├── start_web_ui.py        # Startup script for web UI
